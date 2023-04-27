@@ -29,7 +29,9 @@ Step 3: Once downloaded, unzip the contents. Leave everything inside of the "CS 
 Importing the Hyper-V VM to Hyper-V Manager on Windows 10 Pro / Windows 11 Pro Host:
 Step 1: Click the "Action" tab at the top of the menu bar and then click "Import Virtual Machine...".
 Step 2: Once the wizard opens, click "Next".
-Step 3: Select the folder that contains the Hyper-V VM. 
+Step 3: Select the folder that contains the Hyper-V VM.
+Step 4: Select the import type, which should be the default one that is already selected, and click "Next".
+Step 5: Click "Finish". 
 
 
 
